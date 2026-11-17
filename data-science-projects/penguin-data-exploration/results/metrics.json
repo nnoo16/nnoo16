@@ -1,0 +1,57 @@
+{
+  "raw_rows": 344,
+  "morphology_rows": 342,
+  "sex_analysis_rows": 333,
+  "pooled_correlation": 0.8712017673060113,
+  "correlations": [
+    {
+      "group": "All species",
+      "n": 342,
+      "pearson_r": 0.8712017673060113
+    },
+    {
+      "group": "Adelie",
+      "n": 151,
+      "pearson_r": 0.4682016942179395
+    },
+    {
+      "group": "Chinstrap",
+      "n": 68,
+      "pearson_r": 0.6415594129316968
+    },
+    {
+      "group": "Gentoo",
+      "n": 123,
+      "pearson_r": 0.7026665243575183
+    }
+  ],
+  "species_summary": [
+    {
+      "species": "Adelie",
+      "n": 151,
+      "mean_mass_g": 3700.662251655629,
+      "median_mass_g": 3700.0,
+      "sd_mass_g": 458.5661259101348,
+      "bootstrap_low_g": 3628.1332781456954,
+      "bootstrap_high_g": 3773.35678807947
+    },
+    {
+      "species": "Chinstrap",
+      "n": 68,
+      "mean_mass_g": 3733.0882352941176,
+      "median_mass_g": 3700.0,
+      "sd_mass_g": 384.3350813871914,
+      "bootstrap_low_g": 3637.8492647058824,
+      "bootstrap_high_g": 3826.488970588235
+    },
+    {
+      "species": "Gentoo",
+      "n": 123,
+      "mean_mass_g": 5076.016260162602,
+      "median_mass_g": 5000.0,
+      "sd_mass_g": 504.11623665709163,
+      "bootstrap_low_g": 4993.2723577235765,
+      "bootstrap_high_g": 5160.370934959349
+    }
+  ]
+}

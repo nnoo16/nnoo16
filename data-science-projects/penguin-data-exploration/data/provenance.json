@@ -1,0 +1,11 @@
+{
+  "filename": "penguins.csv",
+  "source_url": "https://raw.githubusercontent.com/allisonhorst/palmerpenguins/main/inst/extdata/penguins.csv",
+  "source_page": "https://allisonhorst.github.io/palmerpenguins/",
+  "citation": "Horst, A. M., Hill, A. P., & Gorman, K. B. (2020). palmerpenguins. https://doi.org/10.5281/zenodo.3960218",
+  "license": "CC0 1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "retrieved_date": "2026-11-15",
+  "sha256": "f204db2c753b0937caac3cb35258562c14f073e4bbc76be24b4c51ce22767a93",
+  "raw_file_modified": false
+}

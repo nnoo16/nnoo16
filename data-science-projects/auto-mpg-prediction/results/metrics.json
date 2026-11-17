@@ -1,0 +1,30 @@
+{
+  "raw_rows": 398,
+  "missing_horsepower": 6,
+  "train_rows": 309,
+  "test_rows": 89,
+  "selected_model": "random_forest",
+  "test_mae_mpg": 3.92639207889489,
+  "test_rmse_mpg": 5.142330248714965,
+  "test_r2": 0.2869359973335083,
+  "baseline_test_mae_mpg": 11.98314606741573,
+  "mae_reduction_percent": 67.23404641147255,
+  "mean_residual_mpg": 3.126811523339335,
+  "cross_validation": [
+    {
+      "model": "random_forest",
+      "cv_mae_mean": 2.1723684615703656,
+      "cv_mae_sd": 0.5551375359586534
+    },
+    {
+      "model": "ridge",
+      "cv_mae_mean": 2.453164721084808,
+      "cv_mae_sd": 0.5082943862064496
+    },
+    {
+      "model": "median_baseline",
+      "cv_mae_mean": 5.5946931646221705,
+      "cv_mae_sd": 0.931039179801124
+    }
+  ]
+}

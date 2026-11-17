@@ -1,0 +1,11 @@
+{
+  "filename": "iris.data",
+  "source_url": "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data",
+  "source_page": "https://archive.ics.uci.edu/dataset/53/iris",
+  "citation": "Fisher, R. (1936). Iris [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "retrieved_date": "2026-11-15",
+  "sha256": "6f608b71a7317216319b4d27b4d9bc84e6abd734eda7872b71a458569e2656c0",
+  "raw_file_modified": false
+}
