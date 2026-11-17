@@ -68,8 +68,6 @@ Random operations use seed 42. Raw data hashes are checked before analysis. Note
 
 Code is MIT licensed. Dataset licenses are separate and listed in `data/README.md`.
 
-This educational project was developed with ChatGPT/Codex assistance. The analysis was executed and checked; the notebook includes learning questions and suggested extensions.
-
 ## Learning resources
 
 - [Jupyter](https://jupyter.org): the notebook environment.
