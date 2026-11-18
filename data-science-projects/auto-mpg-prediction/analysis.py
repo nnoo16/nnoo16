@@ -218,5 +218,3 @@ display(Markdown(f"**Result:** {selected_name} has a held-out MAE of **{mae:.2f}
 # **Next experiment:** add group-aware validation by manufacturer, or reserve a new temporal holdout before trying nonlinear features. Do not tune repeatedly against the 1980–1982 results.
 # 
 # **Learning checks:** Why is a time split harder than a random split? Why impute separately inside each fold? Why can R² be low even when a model improves substantially on the training-median baseline?
-# 
-# **Assistance:** This educational project was developed with ChatGPT/Codex assistance. The code and results were executed and checked.
