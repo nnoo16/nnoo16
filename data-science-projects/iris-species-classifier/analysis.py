@@ -193,5 +193,3 @@ display(Markdown(f"**Result:** {selected_name} correctly labels **{results['corr
 # **Next experiment:** compare petal-only and sepal-only models using training cross-validation, then evaluate any new selection on fresh labeled measurements.
 # 
 # **Learning checks:** Why fit the scaler inside each fold? Why does stratification help? Why can a perfect score on 30 observations still be uncertain?
-# 
-# **Assistance:** This educational project was developed with ChatGPT/Codex assistance. The code and results were executed and checked.
