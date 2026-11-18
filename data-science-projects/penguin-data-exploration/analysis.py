@@ -160,5 +160,3 @@ display(Markdown("**Finding:** " + takeaway))
 # **Next experiment:** compare the within-species relationship by year, reporting sample sizes, then investigate whether an island comparison is possible within the same species.
 # 
 # **Learning checks:** Why keep rows with missing sex for the scatterplot? Why is a bootstrap interval different from the spread of individual masses? Why can pooling groups strengthen correlation?
-# 
-# **Assistance:** This educational project was developed with ChatGPT/Codex assistance. The code and results were executed and checked.
